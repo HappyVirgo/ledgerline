@@ -1,0 +1,11 @@
+# build output
+/bin/
+/dist/
+*.exe
+*.test
+*.out
+# local databases
+*.db
+*.db-wal
+*.db-shm
+.env
